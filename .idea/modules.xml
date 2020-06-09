@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/anresion.iml" filepath="$PROJECT_DIR$/anresion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-operation/erp-operation.iml" filepath="$PROJECT_DIR$/erp-operation/erp-operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-repository/erp-repository.iml" filepath="$PROJECT_DIR$/erp-repository/erp-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-security/erp-security.iml" filepath="$PROJECT_DIR$/erp-security/erp-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-services/erp-services.iml" filepath="$PROJECT_DIR$/erp-services/erp-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/erp-utils/erp-utils.iml" filepath="$PROJECT_DIR$/erp-utils/erp-utils.iml" />
+    </modules>
+  </component>
+</project>
