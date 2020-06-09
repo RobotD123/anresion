@@ -5,11 +5,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@ComponentScan(basePackages
-                       = {"com.anresion.operation",
-                        "com.anresion.repository",
-
-
+@ComponentScan(
+        basePackages = {
+                 "com.anresion.operation",
+                 "com.anresion.repository",
+                 "com.anresion.security",
+                "com.anresion.services",
+                "com.anresion.utils",
 })
 public class ErpOperationApplication {
 
@@ -17,3 +19,4 @@ public class ErpOperationApplication {
         SpringApplication.run(ErpOperationApplication.class, args);
     }
 }
+
