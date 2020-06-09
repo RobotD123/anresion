@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
                  "com.anresion.operation",
                  "com.anresion.repository",
                  "com.anresion.security",
-                "com.anresion.services",
+                "com.anresion.service",
                 "com.anresion.utils",
 })
 public class ErpOperationApplication {
